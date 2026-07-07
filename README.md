@@ -1,39 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,21,23&height=125&section=header&text=&fontSize=0" width="100%"/>
+<h1 style="margin-top:-20px;">Hi there, I'm Kuan 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Senior+Software+Engineer;Full+Stack+%7C+AI+%2F+ML+%7C+Cloud+Architecture)](https://git.io/typing-svg)
-
-<br/>
-
-![Computer Science](https://img.shields.io/badge/B.S._Computer_Science-University_Name-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-3.9%2F4.0-7C3AED?style=flat-square)
-![Location](https://img.shields.io/badge/Location-San_Francisco,_CA-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.dev-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=6D28D9&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/yourusername?style=flat-square&color=7C3AED&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/yourusername?style=flat-square&color=8B5CF6&label=Total+Stars&logo=github)
+<a href="https://www.linkedin.com/in/kuan-wei-315b4a344/">
+  <img src="https://img.shields.io/badge/LinkedIn-0057A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://kuan-code.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-006400?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:kuandev06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-E0115F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
----
+<div style="padding-top: 10px;">
+
+```python
+for i in range(5):
+    print(i)
+  
+```
+</div>
 
 ## About
 
 ```
-Senior Software Engineer with 5+ years of experience designing and shipping production-grade
-systems at scale. Specializing in full stack product engineering, distributed systems, and
-applied AI/ML — with a track record of delivering measurable business impact across high-growth
-startups and enterprise environments.
+
 ```
 
 Deeply proficient in architecting end-to-end solutions — from real-time ML inference pipelines and LLM-powered product features, to scalable REST/GraphQL APIs and performant React frontends. I operate at the intersection of **engineering rigor** and **product intuition**, consistently translating ambiguous requirements into clean, maintainable systems.
