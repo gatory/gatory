@@ -24,58 +24,64 @@
 
 ## About
 
+```python
+class Gatory:
+    def __init__(self):
+        self.education = {
+            "University": "University of British Columbia",
+            "Degree": "Bachelor of Science",
+            "Field": "Honours in Computer Science, Option in Artificial Intelligence",
+            "Expected Graduation": "May 2028",
+        }
+        self.interests = [
+            "AI Applications & LLMs",
+            "Software Engineering & Full Stack Development",
+            "Machine Learning & Data Analytics"
+        ]
+        self.currently = {
+            "studying": "UBC Vancouver",
+            "looking_for": "Fall 2026 Co-op",
+            "building": "cool things 🛠️"
+        }
+
+    def collaborate(self, you):
+        combined_skills = self.skills + you.skills
+        shared_ideas = brainstorm(together=True)
+        
+        while project.in_progress():
+            commit()
+            review(each_other)
+            iterate()
+        
+        return something_awesome  # > sum of parts 🚀
 ```
 
-```
-
-Deeply proficient in architecting end-to-end solutions — from real-time ML inference pipelines and LLM-powered product features, to scalable REST/GraphQL APIs and performant React frontends. I operate at the intersection of **engineering rigor** and **product intuition**, consistently translating ambiguous requirements into clean, maintainable systems.
-
-My work spans model fine-tuning and evaluation, cloud-native infrastructure on AWS, microservices design, and developer tooling — always with an eye toward reliability, observability, and long-term ownership.
+#### Entry software developer studying at UBC with a passion for building things that actually help others. Enjoys working across the full stack and data analytics, and is especially drawn to problems at the intersection of **software engineering**, **AI**, and **human-computer interaction**.
 
 <br/>
 
-**Open To:** Senior / Staff Engineering roles · AI/ML Platform · Full Stack Product · Remote-First · High-Ownership Environments
-
----
-
 ## Tech Stack
-
 <div align="center">
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,go,java,rust,cpp,sql&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,r&theme=dark)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,graphql,figma,html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark)](https://skillicons.dev)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,django,postgres,mongodb,redis,kafka,elasticsearch&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql&theme=dark)](https://skillicons.dev)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
 
-### Cloud, DevOps & Tooling
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,github,githubactions,linux,prometheus&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-## AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Large Language Models | ██████████ Expert | GPT-4, Claude, Gemini — fine-tuning, RAG pipelines, prompt engineering |
-| ML Ops & Deployment | █████████░ Advanced | MLflow, SageMaker, model versioning, A/B testing, drift detection |
-| Deep Learning | █████████░ Advanced | PyTorch, Transformers, CNNs, attention mechanisms |
-| Computer Vision | ████████░░ Proficient | Object detection, segmentation, CLIP, BLIP-2 |
-| NLP & Text Processing | ██████████ Expert | Embeddings, semantic search, entity extraction, classification |
-| Reinforcement Learning | ███████░░░ Proficient | PPO, reward modeling, RLHF alignment techniques |
-| Vector Databases | █████████░ Advanced | Pinecone, Weaviate, pgvector, FAISS, hybrid search |
-| Data Engineering | █████████░ Advanced | Spark, dbt, Airflow, feature stores, real-time pipelines |
+### Tools & Testing
+[![Tools](https://skillicons.dev/icons?i=jupyter,git,linux&theme=dark)](https://skillicons.dev)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
 
----
+<br/>
 
 ## Featured Projects
 
