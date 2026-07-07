@@ -66,24 +66,24 @@ class Gatory:
 
 <a href="https://github.com/gatory/UBC_Insight">
   <!-- <img src="https://raw.githubusercontent.com/gatory/UBC_Insight/main/thumbnail.png" width="45%"/><br/> -->
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=gatory&repo=UBC_Insight&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2" width="45%"/>
+  <img src="https://github-readme-stats-theta-blond-65.vercel.app/api/pin/?username=gatory&repo=UBC_Insight&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2" width="45%"/>
 </a>
 &nbsp;
 <a href="https://github.com/slim-33/CrispIt">
   <!-- <img src="https://raw.githubusercontent.com/slim-33/CrispIt/main/thumbnail.png" width="45%"/><br/> -->
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=slim-33&repo=CrispIt&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2" width="45%"/>
+  <img src="https://github-readme-stats-theta-blond-65.vercel.app/api/pin/?username=slim-33&repo=CrispIt&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2" width="45%"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/gatory/StockSense">
   <!-- <img src="https://raw.githubusercontent.com/gatory/StockSense/main/thumbnail.png" width="45%"/><br/> -->
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=gatory&repo=StockSense&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2" width="45%"/>
+  <img src="https://github-readme-stats-theta-blond-65.vercel.app/api/pin/?username=gatory&repo=StockSense&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2" width="45%"/>
 </a>
 &nbsp;
 <a href="https://github.com/gatory/NYC_Airbnb_Analysis">
   <!-- <img src="https://raw.githubusercontent.com/gatory/NYC_Airbnb_Analysis/main/thumbnail.png" width="45%"/><br/> -->
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=gatory&repo=NYC_Airbnb_Analysis&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2" width="45%"/>
+  <img src="https://github-readme-stats-theta-blond-65.vercel.app/api/pin/?username=gatory&repo=NYC_Airbnb_Analysis&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2" width="45%"/>
 </a>
 
 </div>
@@ -157,12 +157,8 @@ current_focus:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gatory&show_icons=true&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2&text_color=ffffff&include_all_commits=true&count_private=true" width="45%"/>
+<img src="https://github-readme-stats-theta-blond-65.vercel.app/api?username=gatory&show_icons=true&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2&text_color=ffffff&include_all_commits=true&count_private=true" width="45%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatory&layout=compact&theme=dark&bg_color=0d1117&border_color=006400&title_color=43cea2&text_color=ffffff" width="45%"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gatory&theme=dark&background=0d1117&border=006400&ring=43cea2&fire=43cea2&currStreakLabel=43cea2" width="45%"/>
 
 </div>
