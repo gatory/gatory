@@ -1,8 +1,6 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,21,23&height=125&section=header&text=&fontSize=0" width="100%"/>
 <h1 style="margin-top:-20px;">Hi there, I'm Kuan 👋</h1>
-
 <a href="https://www.linkedin.com/in/kuan-wei-315b4a344/">
   <img src="https://img.shields.io/badge/LinkedIn-0057A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -13,15 +11,14 @@
   <img src="https://img.shields.io/badge/Email-E0115F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-</div>
+<br/><br/>
 
-<div style="padding-top: 10px;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gatory/gatory/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gatory/gatory/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gatory/gatory/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
-```python
-for i in range(5):
-    print(i)
-  
-```
 </div>
 
 ## About
