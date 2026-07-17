@@ -157,7 +157,8 @@ current_focus:
 
 <div align="center">
 
-![Stats](./profile/stats.svg)
+<!-- ![Stats](./profile/stats.svg) -->
+<img src="https://github-readme-stats-theta-blond-65.vercel.app/api?username=gatory&show_icons=true&bg_color=0d1117&border_color=006400&title_color=43cea2&icon_color=43cea2&text_color=ffffff&include_all_commits=true&count_private=true" width="45%"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gatory&theme=dark&background=0d1117&border=006400&ring=43cea2&fire=43cea2&currStreakLabel=43cea2" width="45%"/>
 
